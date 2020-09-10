@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f42a144a-8fee-4a4d-834d-783d2120101f" name="Default Changelist" comment="" />
+    <list default="true" id="f42a144a-8fee-4a4d-834d-783d2120101f" name="Default Changelist" comment="Primer commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,22 +164,34 @@
       <workItem from="1599593157248" duration="1447000" />
       <workItem from="1599616043139" duration="1899000" />
       <workItem from="1599678998770" duration="61000" />
-      <workItem from="1599757399672" duration="9015000" />
+      <workItem from="1599757399672" duration="9116000" />
     </task>
+    <task id="LOCAL-00001" summary="Primer commit">
+      <created>1599766493286</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599766493286</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1869" y="208" width="424" height="491" key="FileChooserDialogImpl" timestamp="1599679057957">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
     <state x="1869" y="208" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741/1366.0.1440.900@1366.0.1440.900" timestamp="1599679057957" />
-    <state x="2261" y="139" width="264" height="271" key="Github.ShareDialog" timestamp="1599766368720">
+    <state x="2261" y="139" width="264" height="271" key="Github.ShareDialog" timestamp="1599766449035">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
-    <state x="2261" y="139" width="264" height="271" key="Github.ShareDialog/72.27.1294.741/1366.0.1440.900@1366.0.1440.900" timestamp="1599766368720" />
+    <state x="2261" y="139" width="264" height="271" key="Github.ShareDialog/72.27.1294.741/1366.0.1440.900@1366.0.1440.900" timestamp="1599766449035" />
     <state x="1882" y="371" width="397" height="165" key="NewPhpFileDialog" timestamp="1599593284635">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
@@ -189,6 +201,10 @@
     </state>
     <state x="1575" y="85" width="1022" height="737" key="SettingsEditor/0.28.1366.702/1366.0.1440.900@1366.0.1440.900" timestamp="1599594225920" />
     <state x="1575" y="85" width="962" height="737" key="SettingsEditor/72.27.1294.741/1366.0.1440.900@1366.0.1440.900" timestamp="1599758570984" />
+    <state x="1681" y="163" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1599766510948">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1681" y="163" width="800" height="543" key="Vcs.Push.Dialog.v2/72.27.1294.741/1366.0.1440.900@1366.0.1440.900" timestamp="1599766510948" />
     <state x="1919" y="225" width="324" height="419" key="svn.repositoryBrowser" timestamp="1599766375493">
       <screen x="1366" y="0" width="1440" height="900" />
     </state>
